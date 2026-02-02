@@ -1,11 +1,3 @@
-# ⚠️ If you are having problems with um-idcard, you can wait for an update or alternatively use the following scripts suggested by um
-* [bl_idcard](https://github.com/Byte-Labs-Studio/bl_idcard)
-* [five_idcard](https://github.com/cinquina/five-idcard)
-
-# um-idcard | old (~~qb-idcard~~)
-<sup><b>qb-idcard</b> has been updated and renamed as <b>um-idcard</b>, and it is now compatible with <b>ESX</b> and </b><b>QBCore</b> and <b>Qbox</b></sup> 
-
-
 ### Setup
 * Make sure you have the items in **Config.Licenses**, otherwise add them.
 * After **[ox_lib](https://github.com/overextended/ox_lib/releases)** 
